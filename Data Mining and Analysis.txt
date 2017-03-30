@@ -1,1 +1,4 @@
+Put all the changes related to data analysis final project here:
 
+US ZIP codes (Anonymised or not)  
+U.S. Postal service introduced the ZIP+4 system.  In this system, the 5 digit ZIP code number signifies the same thing as before and the extra 4 digits at the end signify an area within a certain post office’s coverage area.  Specifically, the six and seventh digits indicate a “delivery sector”, such as a group of streets; a group of office buildings; etc.  The last two numbers then indicate a “delivery segment” which could indicate a floor of an office building; the side of the street the address is on; etc.   This allows for more efficient sorting within a single post office that deals in high volumes of mail.
